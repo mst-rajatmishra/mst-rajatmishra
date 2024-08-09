@@ -1,6 +1,11 @@
 <h2 align="left">💫 About Me:<br>🕺DANCER.<br>🪪 FULLSTACK DEVELOPER, APPLICATION DEVELOPER, UI/UX DEVELOPER AND SOFTWARE DEVELOPER.<br>🌱 I AM CURRENTLY LEARNING MORE ON PERFORMANCE TUNING AND AUTOMATION OF APPLICATION, AND USING PYTHON FOR DATA ANALYSIS, SIMULATION AND AUTOMATION<br>💬 ASK ME ABOUT - NOTHING 🚫<br>⚡ FUN FACT - CAN'T DEVELOP FEELINGS IN ANYONE'S HEART 🙂<br>📖 LEARNER.</h2>
 
-# 💻 Tech Stack:
+###
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/ySpxjJmsq9gsw/giphy.gif?cid=ecf05e47dk2o8sjluqdylhv3p0vpq0mtdwzq2hkavcrqat8b&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -89,19 +94,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mst-rajatmishra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mst-rajatmishra&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mst-rajatmishra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mst-rajatmishra&theme=vue&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mst-rajatmishra&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=mst-rajatmishra&icon=0&color=0)](https://visitcount.itsvg.in)
+###
 
 <div align="left">
   <a href="https://instagram.com/MST_RAJATMISHRA" target="_blank">
@@ -118,4 +111,17 @@
   </a>
 </div>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mst-rajatmishra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mst-rajatmishra&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mst-rajatmishra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mst-rajatmishra&theme=vue&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mst-rajatmishra&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mst-rajatmishra&icon=0&color=0)](https://visitcount.itsvg.in)
 ###
